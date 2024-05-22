@@ -1,6 +1,6 @@
 # Traffic Volume Forecasting Using LSTM
 
-This project uses Long Short-Term Memory (LSTM) networks with Keras and TensorFlow to forecast traffic volume based on hourly data.
+This project uses Long Short-Term Memory (LSTM) networks to forecast traffic volume based on hourly data.
 
 ## Overview
 
